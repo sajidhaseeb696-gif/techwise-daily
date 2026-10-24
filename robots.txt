@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sajidhaseeb696-gif.github.io/techwise-daily/sitemap.xml
